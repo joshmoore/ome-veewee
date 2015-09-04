@@ -10,7 +10,7 @@ apt-get -y install \
     python-scipy \
     python-tables \
     python-virtualenv \
-    openjdk-7-jre-headless \
+    openjdk-7-jdk \
     ice-services python-zeroc-ice \
     postgresql \
     nginx \
